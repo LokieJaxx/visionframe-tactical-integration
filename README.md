@@ -60,19 +60,18 @@ Empowering U.S. Armed Forces with battlefield-ready AR glasses that deliver:
 
 ## Tactical Presentation Deck
 
-[▶ Download Tactical Deck (PDF)](https://github.com/LokieJaxx/visionframe-tactical-integration/blob/main/VisionFrame_Tactical_Deck_Kollman_2025.pdf)
+[▶ Download Tactical Deck (PDF)]
+Includes full concept, visual structure, and integration strategy.[VisionFrame_Tactical_Deck_Kollman_2025.pdf](https://github.com/user-attachments/files/19817543/VisionFrame_Tactical_Deck_Kollman_2025.pdf)
 
-Includes full concept, visual structure, and integration strategy.
+[VisionFrame_Tactical_Deck_Kollman_2025.pptx](https://github.com/user-attachments/files/19817547/VisionFrame_Tactical_Deck_Kollman_2025.pptx)
 
 ---
 
 ## Screenshots
 
-![VisionFrame Tactical Promo](./assets/visionframe-promo.jpg)
-
+![visionframe-promo](https://github.com/user-attachments/assets/245e20ec-8c9c-4869-b1d8-01d1b54f1f81)
 
 ---
-
 ## Contact
 
 **Stephen Kollman**  
@@ -95,3 +94,4 @@ Interested in partnering, prototyping, or enhancing VisionFrame?
 
 Military R&D, defense contractors, and field-ready engineers welcome.  
 Submit a pull request or contact directly to join the mission.
+
