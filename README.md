@@ -4,8 +4,12 @@
   <img src="assets/visionframe-promo.jpg" alt="VisionFrame Promo Concept" width="300"/>
 </p>
 
-
 # VisionFrame Tactical Integration
+<p align="center">
+  <img src="https://img.shields.io/github/stars/LokieJaxx/visionframe-tactical-integration?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/LokieJaxx/visionframe-tactical-integration?style=flat-square" />
+  <img src="https://img.shields.io/github/license/LokieJaxx/visionframe-tactical-integration?style=flat-square" />
+</p>
 
 **Next-Gen AR Glasses Engineered for U.S. Military Superiority**
 
@@ -66,7 +70,11 @@ Empowering U.S. Armed Forces with battlefield-ready AR glasses that deliver:
 ---
 
 ## Tactical Presentation Deck
-
+<p align="center">
+  <a href="./VisionFrame_Tactical_Deck_Kollman_2025.pdf">
+    <img src="https://img.shields.io/badge/Download%20Tactical%20Deck-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  </a>
+</p>
 [▶ Download Tactical Deck (PDF)]
 Includes full concept, visual structure, and integration strategy.[VisionFrame_Tactical_Deck_Kollman_2025.pdf](https://github.com/user-attachments/files/19817543/VisionFrame_Tactical_Deck_Kollman_2025.pdf)
 
