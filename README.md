@@ -70,7 +70,6 @@ Includes full concept, visual structure, and integration strategy.
 
 ![VisionFrame Tactical Promo](./assets/visionframe-promo.jpg)
 
-Optional: Replace with final render, CAD design, or prototype image.
 
 ---
 
