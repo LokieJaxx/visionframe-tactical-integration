@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/VisionFrame-Design1.png" alt="VisionFrame Tactical Design 1" width="300"/>
+  <img src="assets/VisionFrame-Design2.png" alt="VisionFrame Tactical Design 2" width="300"/>
+  <img src="assets/visionframe-promo.jpg" alt="VisionFrame Promo Concept" width="300"/>
+</p>
+
+
 # VisionFrame Tactical Integration
 
 **Next-Gen AR Glasses Engineered for U.S. Military Superiority**
@@ -65,15 +72,18 @@ Includes full concept, visual structure, and integration strategy.[VisionFrame_T
 
 [VisionFrame_Tactical_Deck_Kollman_2025.pptx](https://github.com/user-attachments/files/19817547/VisionFrame_Tactical_Deck_Kollman_2025.pptx)
 
+
+
 ---
 
 ## Screenshots
 
-![visionframe-promo](https://github.com/user-attachments/assets/245e20ec-8c9c-4869-b1d8-01d1b54f1f81)
+<p align="center">
+  <img src="assets/VisionFrame-Design1.png" alt="VisionFrame Tactical Design 1" width="300"/>
+  <img src="assets/VisionFrame-Design2.png" alt="VisionFrame Tactical Design 2" width="300"/>
+  <img src="assets/visionframe-promo.jpg" alt="VisionFrame Promo Concept" width="300"/>
+</p>
 
-![VisionFrame-Design1](https://github.com/user-attachments/assets/f008d237-fd44-46fb-8369-8c2743e22367)
-
-![VisionFrame-Design2](https://github.com/user-attachments/assets/8c57ff1d-a761-4417-ac94-ceb442e3c8d6)
 
 ---
 ## Contact
