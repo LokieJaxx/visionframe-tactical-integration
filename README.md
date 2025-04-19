@@ -71,6 +71,10 @@ Includes full concept, visual structure, and integration strategy.[VisionFrame_T
 
 ![visionframe-promo](https://github.com/user-attachments/assets/245e20ec-8c9c-4869-b1d8-01d1b54f1f81)
 
+
+![VisionFrame-Design1](https://github.com/user-attachments/assets/f008d237-fd44-46fb-8369-8c2743e22367)
+
+
 ---
 ## Contact
 
